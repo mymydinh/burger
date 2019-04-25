@@ -1,0 +1,8 @@
+{
+    "name": "burger",
+    "description": "burger app using node.js, expresss, bootstrap, handlebars and mysql",
+    "repository": "https://github.com/mymydinh/burger",
+    "logo": "",
+    "keywords": ["node", "express", "bootstrap", "handlebars", "mysql"],
+    "image": ""
+}
